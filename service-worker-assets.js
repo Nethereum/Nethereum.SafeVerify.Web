@@ -125,8 +125,8 @@
       "url": "_framework\/Microsoft.JSInterop.o187eofblz.wasm.br"
     },
     {
-      "hash": "sha256-Ik4fdqVW43vKJfbAOiQSK4fEKwWdaaQSt2DfyDoqg8w=",
-      "url": "_framework\/MudBlazor.xhfx6ox00c.wasm.br"
+      "hash": "sha256-sEKSeiWyvuEYV6r+OYjvnOSJCKdlBkXGUslSYpzg\/kM=",
+      "url": "_framework\/MudBlazor.tqivwlyqhp.wasm.br"
     },
     {
       "hash": "sha256-fhwl5N9slJNZflEAB26fejMs2HJDRI7xkvuAno1DYmY=",
@@ -137,36 +137,36 @@
       "url": "_framework\/Nethereum.ABI.6gqr2w64vl.wasm.br"
     },
     {
-      "hash": "sha256-RXBoIZeFFiTkki33R4alQ2GLvhis0e4VgEhqyyTdxuk=",
-      "url": "_framework\/Nethereum.Accounts.m6nqc6mocq.wasm.br"
+      "hash": "sha256-aVUCz7\/c4H86JlMqlUZxPtUdc16Xx40380uBftnR\/OU=",
+      "url": "_framework\/Nethereum.Accounts.mzetse9nyd.wasm.br"
     },
     {
-      "hash": "sha256-Cl2iPTi4VjTWlm7zyl06gEMCo\/tQyf051Vh0J7NtLWE=",
-      "url": "_framework\/Nethereum.Blazor.1ij27q8nv4.wasm.br"
+      "hash": "sha256-LKCDcqQXEwZDNVNhnJxjbyRG4CE91E75qWJ+s1LdfAA=",
+      "url": "_framework\/Nethereum.Blazor.38mid0u2z3.wasm.br"
     },
     {
-      "hash": "sha256-vPVv+HD8XkW\/GxMm\/2pnrlFFeP3KOizoEQCfOlkA9n4=",
-      "url": "_framework\/Nethereum.BlockchainProcessing.w1g9858u0n.wasm.br"
+      "hash": "sha256-2Pd7GwxiHuCki5oCH3Ft9fE0eIQUGaQSnj3JPLeW4K0=",
+      "url": "_framework\/Nethereum.BlockchainProcessing.lqdmte7bm9.wasm.br"
     },
     {
-      "hash": "sha256-uXxDSO1CWIIf8RT1hMd65m5vnlkE\/ehj0ISkhCfCC7M=",
-      "url": "_framework\/Nethereum.Contracts.77mw6qtkap.wasm.br"
+      "hash": "sha256-l\/2bfaGIMzeoPS+xFxIw3tpmsEwITyhG29n\/9oAKOi4=",
+      "url": "_framework\/Nethereum.Contracts.0vvxh9h31o.wasm.br"
     },
     {
       "hash": "sha256-Xz4u2sneuUx3\/m1NRd40TkoRKJ+Qvs3qERANrk15SvY=",
       "url": "_framework\/Nethereum.DataServices.3hydku3vow.wasm.br"
     },
     {
-      "hash": "sha256-TtCrBRkFgMj9dps4uRzU\/t+Pu150xrHslze+N51rnwk=",
-      "url": "_framework\/Nethereum.EIP6963WalletInterop.honj8knha3.wasm.br"
+      "hash": "sha256-f98UKMAXZGyVIUaWVQnpzyBeWMsXmGMfwrVOYD5ZHY4=",
+      "url": "_framework\/Nethereum.EIP6963WalletInterop.i5mzz7u76y.wasm.br"
     },
     {
-      "hash": "sha256-oAHGNBr0OnsbVwHxvRTcdyyyiVtK0bgSQ8IWgKAKqzs=",
-      "url": "_framework\/Nethereum.GnosisSafe.pze5rpdk3r.wasm.br"
+      "hash": "sha256-CM5HFE4Ka8ZCjURbd5YiZkuY+dDJkb\/W66UebyGaA54=",
+      "url": "_framework\/Nethereum.GnosisSafe.remc1cmi5i.wasm.br"
     },
     {
-      "hash": "sha256-JDpalaLl3giyddZ+7HZFCoYo6x+x5LTLm4ZjThGs2I8=",
-      "url": "_framework\/Nethereum.GnosisValidator.53g0srzv0y.wasm.br"
+      "hash": "sha256-NcFnvh9WQKV4CenGYfEdvS9f4zBzUaLG7SAE2OeruuU=",
+      "url": "_framework\/Nethereum.GnosisValidator.2yy6ow5aqn.wasm.br"
     },
     {
       "hash": "sha256-qkzP2PPpn922R8tlvJzp4xR7FMsxDXFENWu1+UvYSek=",
@@ -185,44 +185,44 @@
       "url": "_framework\/Nethereum.KeyStore.vs175xhs8e.wasm.br"
     },
     {
-      "hash": "sha256-ThVKXurJuuhj1dRTJg5qTiPjJIbuEaFsYGWLz3Du1jA=",
-      "url": "_framework\/Nethereum.Merkle.Patricia.4of4wszafh.wasm.br"
+      "hash": "sha256-ImLJqmFJ0OEOLBCnHL5wpE+mBRofrnIGOU\/KceTinU0=",
+      "url": "_framework\/Nethereum.Merkle.Patricia.noagmvt3xc.wasm.br"
     },
     {
-      "hash": "sha256-qyXffAz4J38W3GMa5WWtRV7NYZoXiNP4TBTf2HwjFVo=",
-      "url": "_framework\/Nethereum.Metamask.06pkhy0hqp.wasm.br"
+      "hash": "sha256-DxyoxDFJGlZ9B7GY8hedlIF4dzkVfpXLFhHY0Lw\/QpE=",
+      "url": "_framework\/Nethereum.Metamask.phg9enlcjp.wasm.br"
     },
     {
-      "hash": "sha256-r0pYVqmlze3ZczzvLBAMwb12Fwrm0jLYVH2vtz5KmgU=",
-      "url": "_framework\/Nethereum.Model.vptvhr3om7.wasm.br"
+      "hash": "sha256-S7yG8mVd7\/VeHKTxZdugJurIAMPTKoGKZsiSwaxDaYU=",
+      "url": "_framework\/Nethereum.Model.rv313ndpnw.wasm.br"
     },
     {
       "hash": "sha256-C3VQJDfAL0bQu1DhanpdO8Kz0xcSce\/eJZ9S2wBroTY=",
       "url": "_framework\/Nethereum.RLP.llg46pdzcx.wasm.br"
     },
     {
-      "hash": "sha256-gfAqgl83SI\/CVoUysEAMHpCnU9E\/Wi0wmP+QXXKHI\/Y=",
-      "url": "_framework\/Nethereum.RPC.jvb43vjohp.wasm.br"
+      "hash": "sha256-0b7IR\/HQTMM3WJeJyvsU2fL2\/YU\/XbLjnyrWnLjoqgc=",
+      "url": "_framework\/Nethereum.RPC.sr0tfpc9bp.wasm.br"
     },
     {
-      "hash": "sha256-LtT6172cmO6+BdFaniVpfQByRVHDM7L+Sf9E9F5rFsQ=",
-      "url": "_framework\/Nethereum.Signer.EIP712.ok7e0mzkmu.wasm.br"
+      "hash": "sha256-DtcYTUUqhNc9mIr2L+SklJJfYICvQcQrOnQtuBOlCMU=",
+      "url": "_framework\/Nethereum.Signer.EIP712.8t2ab2wvoa.wasm.br"
     },
     {
-      "hash": "sha256-XhTPfuwLKycC1o595b2Lx1bIR5Z7Q1XDGwYqGlLXmY0=",
-      "url": "_framework\/Nethereum.Signer.yp0hx206km.wasm.br"
+      "hash": "sha256-Q6QseNBwNrBFkouiCnzW6HOdo4ud3E5XKzjXhSjOumg=",
+      "url": "_framework\/Nethereum.Signer.w3tq544may.wasm.br"
     },
     {
       "hash": "sha256-Xf4bluobwgd8NObWMrIXaoneVesnt9hcdeS9WbvqDDE=",
       "url": "_framework\/Nethereum.Siwe.Core.o8itpj4pui.wasm.br"
     },
     {
-      "hash": "sha256-XrvC1v5G5t\/4Tkt6gypeHgLseaxSNqfe4x13e4X9hZM=",
-      "url": "_framework\/Nethereum.Siwe.p23znwrc7i.wasm.br"
+      "hash": "sha256-JLy8cnDQNcI1RT6xbC5zXBE3amkX0R1h4MlbgZ38ouc=",
+      "url": "_framework\/Nethereum.Siwe.cskntp07ow.wasm.br"
     },
     {
-      "hash": "sha256-p7U7scewo7rsuGN1ePrRGPswGFVZJ834WWa9iFFMl0Q=",
-      "url": "_framework\/Nethereum.UI.coiesg844f.wasm.br"
+      "hash": "sha256-832iM1jpIj1g+rkwjBsNG4P\/hacS0BY6Gqz0Jd5ZEZo=",
+      "url": "_framework\/Nethereum.UI.oomwhcv1pn.wasm.br"
     },
     {
       "hash": "sha256-FCSasOyaEB1O7rdNx5cZhpsbnO5Zh\/yYQCv4PIUOMY0=",
@@ -233,8 +233,8 @@
       "url": "_framework\/Nethereum.Util.Rest.tp8ze2l1pb.wasm.br"
     },
     {
-      "hash": "sha256-N\/rNOeGNSH7Ffnp5v9I6h6+Qn\/T1UEe1M832pPD2Rt0=",
-      "url": "_framework\/Nethereum.Web3.951cx89tlz.wasm.br"
+      "hash": "sha256-M2jf+DR112VWwmC+OuksXYsojLunOrRtCxG5v1UoJL0=",
+      "url": "_framework\/Nethereum.Web3.6z0wrqzvz7.wasm.br"
     },
     {
       "hash": "sha256-KPHyzlemUj5VvV+YmSzNK2yVBALol1MoTz5VcYGoBE0=",
@@ -449,7 +449,7 @@
       "url": "_framework\/System.pndwwxah3a.wasm.br"
     },
     {
-      "hash": "sha256-cUGQnn6NlYIBCWlnv+dDh1R8agVaTs2nw2nYhQJ3iS0=",
+      "hash": "sha256-fxCO29raIzLpIYuzICKc6+EiAE1F+phKs2avPRihDJA=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -489,6 +489,10 @@
       "url": "_framework\/netstandard.on6wfiax7r.wasm.br"
     },
     {
+      "hash": "sha256-mWXV652CYyzkY5eB94TUC+1H5gFLAsdqhIQ0\/Fl9MpE=",
+      "url": "apple-touch-icon.png"
+    },
+    {
       "hash": "sha256-VCqlqs5gQqQhmxbziOCVmeMW0z3HOBSbV2azi9NZQ3o=",
       "url": "appsettings.json.br"
     },
@@ -497,19 +501,15 @@
       "url": "css\/app.css.br"
     },
     {
-      "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
-      "url": "favicon.png"
+      "hash": "sha256-TKiINyGFlqn0k6elrvIEP69WpnCGUkvwcIll649Dakg=",
+      "url": "favicon-16x16.png"
     },
     {
-      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
-      "url": "icon-192.png"
+      "hash": "sha256-ZF7+O4UjUbJzZOy+VHR+aWvN1yg7vOcgEAHPQSaM3BU=",
+      "url": "favicon-32x32.png"
     },
     {
-      "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
-      "url": "icon-512.png"
-    },
-    {
-      "hash": "sha256-uR\/OgPWuKs7H6PNPB6ZyRAK10AcAYHorNcLDLxs5ECI=",
+      "hash": "sha256-7D2UEANi6TaadAW8BlmNr5HycrynR6iAkQ+EikxvHKA=",
       "url": "index.html"
     },
     {
@@ -525,5 +525,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "OsIyEDV7"
+  "version": "Mo25Br0H"
 };
